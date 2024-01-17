@@ -1,2 +1,2 @@
 # Linux
-Thid repository is for any learnings related to Linux and shell
+This repository is for any learnings related to Linux and shell
