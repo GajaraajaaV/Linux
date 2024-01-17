@@ -15,7 +15,7 @@ Milestones Covered -
 6. Read an argument from user in runtime and print.
 7. Read an argument from user in runtime that has spaces in it and print it (with and without quotes around the arguments)
 8. Read an argument from user and append string to it and print.
-8. Declaring an array and inserting values into it.
+9. Declaring an array and inserting values into it.
 END_COMMENT
 
 ####Milestone#2####
@@ -48,4 +48,7 @@ echo "Whose laptop is this?"
 read laptop_owner
 echo "This is ${laptop_owner}'s laptop"
 printf "This is %s's laptop" ${laptop_owner}
+
+####Milestone#9####
+declare -a myarray[]
 
