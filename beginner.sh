@@ -50,5 +50,5 @@ echo "This is ${laptop_owner}'s laptop"
 printf "This is %s's laptop" ${laptop_owner}
 
 ####Milestone#9####
-declare -a myarray[]
+
 
